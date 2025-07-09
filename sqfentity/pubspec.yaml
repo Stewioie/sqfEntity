@@ -10,11 +10,11 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  sqflite_sqlcipher: ^3.1.0+1
-  synchronized: 3.3.1
+  sqflite_sqlcipher: 3.2.0
+  synchronized: 3.4.0
   path: 1.9.1
   sqfentity_gen:
     path: ../sqfentity_gen # remove the first comment mark if you want to debug sqfentity_gen package on your local file system
   sqflite_common: 2.5.5
-  sqflite_common_ffi: 2.3.5
+  sqflite_common_ffi: 2.3.6
   meta: 1.16.0
