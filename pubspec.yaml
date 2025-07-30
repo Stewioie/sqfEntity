@@ -31,7 +31,3 @@ dependencies:
     sdk: flutter
   sqfentity_gen:
     path: sqfentity_gen
-
-dependency_overrides:
-  build_runner: 2.6.0
-  build_verify: 3.1.1
