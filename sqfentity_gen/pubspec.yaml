@@ -7,8 +7,12 @@ environment:
   sdk: ">=2.17.0 <4.0.0"
 
 dependencies:
-  build: 2.5.4
-  source_gen: 2.0.0
+  build: 3.0.0
+  source_gen: 3.0.0
   meta: 1.16.0
-  analyzer: 7.5.5
+  analyzer: 7.4.0
   intl: 0.20.2
+
+dependency_overrides:
+  build_runner: 2.6.0
+  build_verify: 3.1.1

@@ -3,13 +3,13 @@
   "packages": [
     {
       "name": "_fe_analyzer_shared",
-      "rootUri": "file:///D:/PUB_CACHE/hosted/pub.dev/_fe_analyzer_shared-85.0.0",
+      "rootUri": "file:///D:/PUB_CACHE/hosted/pub.dev/_fe_analyzer_shared-81.0.0",
       "packageUri": "lib/",
       "languageVersion": "3.5"
     },
     {
       "name": "analyzer",
-      "rootUri": "file:///D:/PUB_CACHE/hosted/pub.dev/analyzer-7.5.5",
+      "rootUri": "file:///D:/PUB_CACHE/hosted/pub.dev/analyzer-7.4.0",
       "packageUri": "lib/",
       "languageVersion": "3.5"
     },
@@ -33,7 +33,7 @@
     },
     {
       "name": "build",
-      "rootUri": "file:///D:/PUB_CACHE/hosted/pub.dev/build-2.5.4",
+      "rootUri": "file:///D:/PUB_CACHE/hosted/pub.dev/build-3.0.0",
       "packageUri": "lib/",
       "languageVersion": "3.7"
     },
@@ -51,19 +51,19 @@
     },
     {
       "name": "build_resolvers",
-      "rootUri": "file:///D:/PUB_CACHE/hosted/pub.dev/build_resolvers-2.5.4",
+      "rootUri": "file:///D:/PUB_CACHE/hosted/pub.dev/build_resolvers-3.0.0",
       "packageUri": "lib/",
       "languageVersion": "3.7"
     },
     {
       "name": "build_runner",
-      "rootUri": "file:///D:/PUB_CACHE/hosted/pub.dev/build_runner-2.5.4",
+      "rootUri": "file:///D:/PUB_CACHE/hosted/pub.dev/build_runner-2.6.0",
       "packageUri": "lib/",
       "languageVersion": "3.7"
     },
     {
       "name": "build_runner_core",
-      "rootUri": "file:///D:/PUB_CACHE/hosted/pub.dev/build_runner_core-9.1.2",
+      "rootUri": "file:///D:/PUB_CACHE/hosted/pub.dev/build_runner_core-9.2.0",
       "packageUri": "lib/",
       "languageVersion": "3.7"
     },
@@ -81,7 +81,7 @@
     },
     {
       "name": "built_value",
-      "rootUri": "file:///D:/PUB_CACHE/hosted/pub.dev/built_value-8.10.1",
+      "rootUri": "file:///D:/PUB_CACHE/hosted/pub.dev/built_value-8.11.0",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
@@ -178,12 +178,6 @@
     {
       "name": "graphs",
       "rootUri": "file:///D:/PUB_CACHE/hosted/pub.dev/graphs-2.3.2",
-      "packageUri": "lib/",
-      "languageVersion": "3.4"
-    },
-    {
-      "name": "http",
-      "rootUri": "file:///D:/PUB_CACHE/hosted/pub.dev/http-1.4.0",
       "packageUri": "lib/",
       "languageVersion": "3.4"
     },
@@ -321,9 +315,9 @@
     },
     {
       "name": "source_gen",
-      "rootUri": "file:///D:/PUB_CACHE/hosted/pub.dev/source_gen-2.0.0",
+      "rootUri": "file:///D:/PUB_CACHE/hosted/pub.dev/source_gen-3.0.0",
       "packageUri": "lib/",
-      "languageVersion": "3.6"
+      "languageVersion": "3.7"
     },
     {
       "name": "source_map_stack_trace",
@@ -381,19 +375,19 @@
     },
     {
       "name": "test",
-      "rootUri": "file:///D:/PUB_CACHE/hosted/pub.dev/test-1.26.2",
+      "rootUri": "file:///D:/PUB_CACHE/hosted/pub.dev/test-1.26.3",
       "packageUri": "lib/",
       "languageVersion": "3.5"
     },
     {
       "name": "test_api",
-      "rootUri": "file:///D:/PUB_CACHE/hosted/pub.dev/test_api-0.7.6",
+      "rootUri": "file:///D:/PUB_CACHE/hosted/pub.dev/test_api-0.7.7",
       "packageUri": "lib/",
       "languageVersion": "3.5"
     },
     {
       "name": "test_core",
-      "rootUri": "file:///D:/PUB_CACHE/hosted/pub.dev/test_core-0.6.11",
+      "rootUri": "file:///D:/PUB_CACHE/hosted/pub.dev/test_core-0.6.12",
       "packageUri": "lib/",
       "languageVersion": "3.5"
     },
@@ -467,6 +461,6 @@
   "generator": "pub",
   "generatorVersion": "3.8.1",
   "flutterRoot": "file:///D:/flutter",
-  "flutterVersion": "3.32.5",
+  "flutterVersion": "3.32.8",
   "pubCache": "file:///D:/PUB_CACHE"
 }
